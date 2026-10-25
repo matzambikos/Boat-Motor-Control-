@@ -1,6 +1,6 @@
 # Boat-Motor-Control-
 
-The software (XXXXXX.ino) is written in arduino C language. The Arduino IDE used was the
+The software (blue_mathios3.ino) is written in arduino C language. The Arduino IDE used was the
 
 1.8.18 version. The software  handles the control of the 2 motors of the boat (propeller and rudder) 
 
