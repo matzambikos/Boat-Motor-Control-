@@ -27,3 +27,7 @@ The addition of a solar panel makes the vessel autonomous in power. The solar
 panel is  connected to the battery via a TP4056 charging module which charges the battery 
 
 continuously as long as there is sunlight and ensures safe charging of the Li-ion battery.
+
+
+This project was implemented in the context of an internship at OMIKRON Design yachts. 
+Special thanks to the engineers and technicians who contributed to the completion of this project. 
